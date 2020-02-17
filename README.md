@@ -1,5 +1,5 @@
 # SplunkNess
-Provide stats on `.json` splunk logs when no dashboard exists.
+Provide manual, ah-hoc stats on `.json` splunk logs when no dashboard exists.
 
 ### Caveat
 
