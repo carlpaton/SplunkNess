@@ -12,7 +12,7 @@ namespace SplunkNess
         static void Main(string[] args)
         {
             // Hard coded like a baws
-            var filePath = @"C:\Users\cpaton\Downloads\redirect-17-feb.json";
+            var filePath = @"C:\Users\cpaton\Downloads\redirect-04-mar.json";
             var jsonTextNewLineDelimted = File.ReadAllText(filePath);
 
             // Newline Delimited JSON sucks :D
